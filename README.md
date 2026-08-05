@@ -39,7 +39,7 @@
 - Are there local seminars, conferences, thesis defenses, professional organizations, or other events that undergraduate mathematics students are encouraged to attend?
 - Are there opportunities for undergraduates to assist with teaching, tutoring, grading, or course preparation? I have a Texas teacher’s aide certification and previous classroom experience.
 
-###Questions for Dr. Maria Histova
+### Questions for Dr. Maria Histova
 - What are the best self-study resources I can use alongside my Russian courses for vocabulary, grammar, listening, and conversation practice?
 - Are there Russian-speaking communities, cultural organizations, conversation groups, or events in the Portland area that welcome students?
 - Are there opportunities during either overseas program to tutor or teach English, volunteer in schools, or work with local students?
