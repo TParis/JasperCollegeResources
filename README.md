@@ -17,7 +17,7 @@
 
 ## Questions for Faculty
 
-### Questiosn for your L&C Student Advisor
+### Questions for your L&C Student Advisor
 - Can you help me create a four-year academic plan that includes my Mathematics and Statistics coursework, Russian language study, and a semester abroad without delaying graduation?
 - When should I begin planning and applying for the Georgia or Kyrgyzstan overseas programs, and what prerequisites should I complete first?
 - Can teaching, tutoring, internships, or volunteer work completed during an overseas program count toward academic credit or graduation requirements?
