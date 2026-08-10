@@ -1,27 +1,46 @@
 # Jasper College Resources
 
-Welcome to Jasper's planning hub for Lewis & Clark. Use this as a launchpad for faculty connections, academic planning, study abroad ideas, graduate school preparation, and campus life resources.
+A practical field guide for Lewis & Clark, Portland, college academics, and living independently.
 
 ## Start Here
 
-| Area | What You’ll Find | Pages |
-| --- | --- | --- |
-| [Faculty](faculty/) | Professor background notes and meeting questions. | [Dr. Iva Starvrov](faculty/iva-starvrov.md)<br>[Dr. Maria Histova](faculty/maria-histova.md)<br>[Questions for Faculty](faculty/questions.md) |
-| [Academic Resources](academic-resources/) | Lewis & Clark academic opportunities, math resources, research, networking, and graduate school planning. | [Academic and Networking](academic-resources/academic-and-networking.md)<br>[Graduate School](academic-resources/graduate-school.md) |
-| [Language Opportunities](language-opportunities/) | Russian language scholarships, immersion programs, and planning links. | [Russian](language-opportunities/Russian.md) |
-| [Teaching and Study Abroad](teaching-study-abroad/) | Overseas programs, tutoring and teaching experience, Russian language immersion, and Fulbright references. | [Resources](teaching-study-abroad/resources.md) |
-| [Campus Life](campus-life/) | Student organizations, community support, accessibility, events, transportation, trivia, and karaoke. | [Community and Support](campus-life/community-and-support.md) |
+### I Need Help With College
 
-## Quick Paths
+- [How College Works](academic/college-life-101.md)
+- [Academic Resources](academic/academic-resources.md)
+- [Professor Questions](faculty/questions.md)
+- [Four-Year Roadmap](planning/four-year-roadmap.md)
 
-- Preparing for a professor meeting? Start with [Questions for Faculty](faculty/questions.md).
-- Looking for math opportunities? Go to [Academic and Networking Resources](academic-resources/academic-and-networking.md).
-- Thinking about a future PhD? Open [Graduate School Resources](academic-resources/graduate-school.md).
-- Planning Russian study abroad? Visit [Teaching and Study Abroad Resources](teaching-study-abroad/resources.md).
-- Exploring Russian language scholarships? Start with [Russian Language Opportunities](language-opportunities/Russian.md).
-- Want community, clubs, or things to do? Browse [Campus Life, Community, and Support](campus-life/community-and-support.md).
+### I Need Help With Life Stuff
+
+- [Money](independent-living/money.md)
+- [Health Care](independent-living/health-care.md)
+- [Transportation](independent-living/transportation.md)
+- [Food and Adulting](independent-living/food-and-adulting.md)
+- [Oh Shit Guide](independent-living/oh-shit-guide.md)
+
+### I Want to Find Opportunities
+
+- [Russian](opportunities/russian.md)
+- [Study Abroad and Fulbright](opportunities/study-abroad.md)
+- [Jobs and Internships](opportunities/jobs-and-internships.md)
+- [Graduate School](academic/graduate-school.md)
+
+### I Want to Find People or Do Something
+
+- [Find Clubs and Support](college-life/community-and-support.md)
+- [Make Friends](college-life/making-friends.md)
+- [Explore Portland](college-life/exploring-portland.md)
+
+## Quick Emergency Links
+
+> **Immediate danger:** call or text **911**.
+>
+> **On campus emergency:** call L&C Campus Safety at **503-768-7777**.
+>
+> **Mental health crisis:** call or text **988**.
 
 ## Faculty Pages
 
-- [Dr. Iva Starvrov](faculty/iva-starvrov.md), Mathematics
-- [Dr. Maria Histova](faculty/maria-histova.md), Russian
+- [Dr. Iva Starvrov](faculty/iva-starvrov.md)
+- [Dr. Maria Histova](faculty/maria-histova.md)
