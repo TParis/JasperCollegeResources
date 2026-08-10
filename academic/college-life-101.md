@@ -65,7 +65,7 @@ Your Name
 
 ## Falling Behind
 
-> Missing one assignment is usually fixable. Ignoring the professor for three weeks makes it much harder to fix.
+First, take a breath. You're not failing. It happens. You're not letting anyone down. Missing one assignment is usually fixable. Ignoring the professor for three weeks makes it much harder to fix. So pause, get centered, and then make a plan. Start with *communicating*...
 
 What to do:
 
@@ -75,9 +75,11 @@ What to do:
 - [ ] Make a short catch-up plan.
 - [ ] Use tutoring, SQRC, or office hours.
 
+If you're overwhelmed...call dad.
+
 ## Extensions
 
-Ask before the deadline when possible.
+Ask before the deadline when possible. Professors are willing to work with a good student that just needs a little extra help. Remember that time that lady at the bar was drunk and told you that teaching sucks? And you said to me that most teachers *aren't* her? Most teachers care? Well...believe your own words. Teachers care. So talk to them when there is a problem. Don't assume the worst.
 
 A good extension request is short:
 
