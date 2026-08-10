@@ -1,6 +1,6 @@
 # Russian
 
-> Russian opportunities work best when Jasper plans coursework, practice, and applications together.
+> Russian opportunities work best when you plan coursework, practice, and applications together.
 
 ## Quick Answer
 
@@ -11,7 +11,7 @@
 
 ## Good First-Year Actions
 
-- [ ] Ask which Russian sequence fits Jasper's current level.
+- [ ] Ask which Russian sequence fits your current level.
 - [ ] Attend Russian Club or conversation table more than once.
 - [ ] Keep a list of useful vocabulary and grammar weak spots.
 - [ ] Ask Dr. Histova what makes students ready for Georgia, Kyrgyzstan, or CLS.
@@ -39,10 +39,10 @@ Good next steps may include:
 
 ## Questions to Ask Dr. Histova
 
-- Which courses should Jasper complete before study abroad?
+- Which courses should you complete before study abroad?
 - How much Russian is enough for CLS?
-- What should Jasper practice outside class?
-- Which program fits Jasper's goals best?
+- What should you practice outside class?
+- Which program fits your goals best?
 
 ## Related Guides
 

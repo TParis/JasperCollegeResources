@@ -1,6 +1,6 @@
 # Academic Resources
 
-> Use this page when Jasper wants support, research, tutoring, or academic community.
+> Use this page when you want support, research, tutoring, or academic community.
 
 ## Quick Answer
 

@@ -7,7 +7,7 @@
 - Campus jobs are real experience.
 - Tutoring and research can matter a lot for math and graduate school.
 - The Career Center can help with resumes, internships, interviews, and planning.
-- Keep a brag file now. Future Jasper will be grateful.
+- Keep a brag file now. Future you will be grateful.
 
 ## What to Do
 
@@ -56,7 +56,7 @@ Use action verbs and concrete results when possible.
 
 ## If Something Goes Wrong
 
-If Jasper has no experience yet, start small:
+If you have no experience yet, start small:
 
 - one campus job,
 - one club role,

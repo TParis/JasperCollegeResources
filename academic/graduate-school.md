@@ -5,7 +5,7 @@
 ## Quick Answer
 
 - Graduate school planning can start early, but it does not need to be fully decided in year one.
-- Strong math preparation usually means coursework, research exposure, faculty relationships, and proof that Jasper can work independently.
+- Strong math preparation usually means coursework, research exposure, faculty relationships, and proof that you can work independently.
 - Recommendation-letter relationships matter.
 - Funding, advisor fit, and research area matter more than school name alone.
 
@@ -34,7 +34,7 @@
 
 - How does a student identify a research area?
 - What undergraduate courses matter most for graduate preparation?
-- When should Jasper look for research experience?
+- When should you look for research experience?
 - What makes a PhD advisor a good fit?
 - When is a master's degree useful before a PhD?
 

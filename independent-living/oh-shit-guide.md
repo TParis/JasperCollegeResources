@@ -1,6 +1,6 @@
 # Oh Shit Guide
 
-> For when something has gone wrong and Jasper needs the next step, not a lecture.
+> For when something has gone wrong and you need the next step, not a lecture.
 
 ## Immediate Danger
 

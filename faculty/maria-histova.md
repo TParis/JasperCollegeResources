@@ -2,7 +2,7 @@
 
 > Russian professor. A useful person to talk with about Russian coursework, language practice, study abroad, and language scholarships.
 
-## Why Jasper Might Want to Talk to Her
+## Why You Might Want to Talk to Her
 
 - Building a realistic Russian study plan.
 - Preparing for Georgia, Kyrgyzstan, or other language opportunities.
@@ -12,8 +12,8 @@
 ## Good Topics to Ask About
 
 - Which Russian courses best prepare students for overseas programs?
-- What should Jasper do outside class to improve listening and speaking?
-- When should Jasper consider the Critical Language Scholarship Program?
+- What should you do outside class to improve listening and speaking?
+- When should you consider the Critical Language Scholarship Program?
 - Are there Russian-speaking communities or events in Portland?
 - How can study abroad fit with math and graduation planning?
 

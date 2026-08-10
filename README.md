@@ -1,4 +1,4 @@
-# Jasper College Resources
+# Your College Resources
 
 A practical field guide for Lewis & Clark, Portland, college academics, and living independently.
 

@@ -1,6 +1,6 @@
 # Health Care
 
-> Health care is easier when Jasper knows where to go before feeling terrible.
+> Health care is easier when you know where to go before feeling terrible.
 
 ## If You Are in Immediate Danger
 
@@ -16,7 +16,7 @@ If on campus, also contact [Campus Safety](https://www.lclark.edu/about/campus_s
 | Same-day non-emergency | Urgent care |
 | Serious or life-threatening | ER / 911 |
 
-## Jasper's Health Care Setup
+## Your Health Care Setup
 
 > Start here for normal doctor visits, medication questions, annual care, referrals, and non-emergency health problems.
 
@@ -29,11 +29,11 @@ If on campus, also contact [Campus Safety](https://www.lclark.edu/about/campus_s
 | Phone | 503-872-2440 |
 | Fax | 503-513-3355 |
 | Hours | Monday-Friday, 8 a.m.-5 p.m. |
-| Insurance note | Providence lists **TRICARE Select** as accepted, but Jasper should still confirm coverage before the first visit. |
+| Insurance note | Providence lists **TRICARE Select** as accepted, but you should still confirm coverage before the first visit. |
 
 ### Insurance
 
-Jasper will be using **TRICARE Select** through **TriWest Healthcare Alliance** in the TRICARE West Region.
+You will be using **TRICARE Select** through **TriWest Healthcare Alliance** in the TRICARE West Region.
 
 Important basics:
 
@@ -42,7 +42,7 @@ Important basics:
 - TRICARE Select usually does **not** require referrals for most primary or specialty appointments.
 - Some services may still require **pre-authorization**.
 - To pay less, use TRICARE-authorized **network providers** when possible.
-- Jasper's **Uniformed Services ID card** is the proof of TRICARE coverage.
+- Your **Uniformed Services ID card** is the proof of TRICARE coverage.
 
 When in doubt, call TriWest before the appointment:
 
@@ -50,7 +50,7 @@ When in doubt, call TriWest before the appointment:
 
 ### Before the First Providence Visit
 
-- [ ] Call Providence and confirm they still accept Jasper's exact TRICARE Select coverage.
+- [ ] Call Providence and confirm they still accept your exact TRICARE Select coverage.
 - [ ] Ask whether the provider is in-network with TriWest/TRICARE West.
 - [ ] Ask whether new patient forms can be completed before the visit.
 - [ ] Bring Uniformed Services ID, photo ID, medication list, allergies, and immunization records.
@@ -91,7 +91,7 @@ Before leaving:
 
 Verify current hours, fees, and appointment rules before relying on them.
 
-The L&C Student Health Center can still be useful for convenient campus care. Because Jasper has TRICARE Select, he should ask about fees, insurance, and whether it makes more sense to use Providence for ongoing care.
+The L&C Student Health Center can still be useful for convenient campus care. Because you have TRICARE Select, ask about fees, insurance, and whether it makes more sense to use Providence for ongoing care.
 
 ## Insurance Basics
 
