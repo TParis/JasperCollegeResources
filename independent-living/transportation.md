@@ -2,6 +2,8 @@
 
 Busses are cool. They're like trains, but for the road...and one car...and no train horn...and no tracks..and they're smaller. Okay, they're not like trains at all. But busses are good for the environment. So try them out. Portland without a car is doable. The trick is planning the return trip before leaving.
 
+Also, if you find a blue police box, don't be disappointed if its normal size on the inside and it can't get you to third period Russian in time...
+
 ## Quick Answer
 
 - Use OtterBus for campus-connected trips when it is running.
