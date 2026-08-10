@@ -138,6 +138,7 @@ Check school policies when illness affects multiple classes.
 
 If it is urgent or after hours, use crisis support:
 
+- Call Dad, mom, a friend, Aunt Lauren, Katie, anyone, really....you're worth it to all of us
 - **988** for the Suicide and Crisis Lifeline.
 - Campus Safety at **503-768-7777** for on-campus immediate safety concerns.
 - 911 for off-campus emergencies.
