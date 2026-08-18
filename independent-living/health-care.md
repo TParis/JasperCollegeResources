@@ -25,11 +25,63 @@ If on campus, also contact [Campus Safety](https://www.lclark.edu/about/campus_s
 | Item | Details |
 | --- | --- |
 | Clinic | [Providence Primary Care - Mary's Woods](https://www.providence.org/locations/or/primary-care-marys-woods) |
-| Address | 17550 Provost St, Suite 201, Lake Oswego, OR 97034 |
-| Phone | 503-872-2440 |
+| Address | [17550 Provost St, Suite 201, Lake Oswego, OR 97034](https://www.google.com/maps/search/?api=1&query=17550%20Provost%20St%20Suite%20201%20Lake%20Oswego%20OR%2097034) |
+| Phone | [503-872-2440](tel:+15038722440) |
 | Fax | 503-513-3355 |
 | Hours | Monday-Friday, 8 a.m.-5 p.m. |
 | Insurance note | Providence lists **TRICARE Select** as accepted, but you should still confirm coverage before the first visit. |
+
+### Care Team
+
+#### Alycia F. Ernst, MD
+
+- **Specialty:** Psychiatry
+- **Phone:** [503-352-0036](tel:+15033520036)
+- **Telemedicine:** Yes
+- **Address:** [7340 SW Hunziker Rd, Ste 210, Portland, OR 97223](https://www.google.com/maps/search/?api=1&query=7340%20SW%20Hunziker%20Rd%20Ste%20210%20Portland%20OR%2097223)
+- **Transit:** [Google Maps route from L&C](https://www.google.com/maps/dir/?api=1&origin=Lewis%20%26%20Clark%20College%2C%20615%20S%20Palatine%20Hill%20Rd%2C%20Portland%2C%20OR%2097219&destination=7340%20SW%20Hunziker%20Rd%20Ste%20210%2C%20Portland%2C%20OR%2097223&travelmode=transit)
+
+#### Laura L. Gaff
+
+- **Specialty:** Family Medicine
+- **Phone:** [503-216-1500](tel:+15032161500)
+- **Telemedicine:** No
+- **Address:** [4004 Kruse Way Place, Suite 300, Lake Oswego, OR 97035](https://www.google.com/maps/search/?api=1&query=4004%20Kruse%20Way%20Place%20Suite%20300%20Lake%20Oswego%20OR%2097035)
+- **Transit:** [Google Maps route from L&C](https://www.google.com/maps/dir/?api=1&origin=Lewis%20%26%20Clark%20College%2C%20615%20S%20Palatine%20Hill%20Rd%2C%20Portland%2C%20OR%2097219&destination=4004%20Kruse%20Way%20Place%20Suite%20300%2C%20Lake%20Oswego%2C%20OR%2097035&travelmode=transit)
+
+#### Stephanie M. Barayuga, MD
+
+- **Specialty:** Internal Medicine
+- **Phone:** [503-216-1500](tel:+15032161500)
+- **Telemedicine:** No
+- **Address:** [4004 Kruse Way Place, Suite 300, Lake Oswego, OR 97035](https://www.google.com/maps/search/?api=1&query=4004%20Kruse%20Way%20Place%20Suite%20300%20Lake%20Oswego%20OR%2097035)
+- **Transit:** [Google Maps route from L&C](https://www.google.com/maps/dir/?api=1&origin=Lewis%20%26%20Clark%20College%2C%20615%20S%20Palatine%20Hill%20Rd%2C%20Portland%2C%20OR%2097219&destination=4004%20Kruse%20Way%20Place%20Suite%20300%2C%20Lake%20Oswego%2C%20OR%2097035&travelmode=transit)
+
+#### Shannon R. Ehleringer, DO
+
+- **Specialty:** Psychology
+- **Phone:** [503-872-2440](tel:+15038722440)
+- **Telemedicine:** Yes
+- **Address:** [17550 Provost Street, Suite 201, Lake Oswego, OR 97034](https://www.google.com/maps/search/?api=1&query=17550%20Provost%20Street%20Suite%20201%20Lake%20Oswego%20OR%2097034)
+- **Transit:** [Google Maps route from L&C](https://www.google.com/maps/dir/?api=1&origin=Lewis%20%26%20Clark%20College%2C%20615%20S%20Palatine%20Hill%20Rd%2C%20Portland%2C%20OR%2097219&destination=17550%20Provost%20Street%20Suite%20201%2C%20Lake%20Oswego%2C%20OR%2097034&travelmode=transit)
+
+### Transit to Appointments
+
+> Use the linked Google Maps route on the day of the appointment. Transit times change by day, appointment time, walking speed, transfers, and weather.
+
+| Destination | Likely Bus Pattern | Rough One-Way Time |
+| --- | --- | --- |
+| Mary's Woods / Provost Street | [Line 35T](https://trimet.org/schedules/r035.htm) toward Oregon City, then walk from the Marylhurst/Mary's Woods area. | About 20-35 minutes |
+| Kruse Way Place | [Line 35T](https://trimet.org/schedules/r035.htm) plus [Line 37](https://trimet.org/schedules/r037.htm) or [Line 38](https://www.trimet.org/home/route/38/) toward the Kruse Way/Boones Ferry area. | About 35-60 minutes |
+| Hunziker Road | [Line 35T](https://trimet.org/schedules/r035.htm) plus [Line 38](https://www.trimet.org/home/route/38/) or [Line 78](https://www.trimet.org/home/route/78/) toward Tigard/Hunziker. | About 50-75 minutes |
+
+Before leaving:
+
+- [ ] Open the Google Maps transit route for the exact provider.
+- [ ] Check the return route too. Future-you deserves a way home.
+- [ ] Check TriMet service alerts.
+- [ ] Leave extra time for transfers and walking.
+- [ ] If the appointment is telemedicine, confirm whether you need to be physically in Oregon during the visit.
 
 ### Insurance
 
@@ -46,7 +98,7 @@ Important basics:
 
 When in doubt, call TriWest before the appointment:
 
-- **TriWest / TRICARE West:** 888-TRIWEST (**888-874-9378**)
+- **TriWest / TRICARE West:** [888-TRIWEST / 888-874-9378](tel:+18888749378)
 
 ### Before the First Providence Visit
 
@@ -57,30 +109,6 @@ When in doubt, call TriWest before the appointment:
 - [ ] Ask how to set up Providence MyChart.
 - [ ] Ask where prescriptions should be sent.
 - [ ] Arrive early the first time.
-
-### Getting There by Transit
-
-Best starting point:
-
-- [Google Maps transit directions from Lewis & Clark to Providence Primary Care - Mary's Woods](https://www.google.com/maps/dir/?api=1&origin=Lewis%20%26%20Clark%20College%2C%20615%20S%20Palatine%20Hill%20Rd%2C%20Portland%2C%20OR%2097219&destination=Providence%20Primary%20Care%20-%20Mary%27s%20Woods%2C%2017550%20Provost%20St%20Suite%20201%2C%20Lake%20Oswego%2C%20OR%2097034&travelmode=transit)
-
-Likely transit pattern:
-
-- Use [TriMet Line 35 - Macadam/Greeley](https://trimet.org/schedules/r035.htm).
-- From the L&C area, board Line 35 toward **Oregon City Transit Center**.
-- Get off near the Marylhurst / Mary's Woods area, then walk to **17550 Provost St**.
-- For the return trip, use Line 35 toward **Portland City Center / University of Portland**.
-
-Before leaving:
-
-- [ ] Check the route in [TriMet Trip Planner](https://trimet.org/home/planner/) or Google Maps.
-- [ ] Check the return route.
-- [ ] Check service alerts.
-- [ ] Leave extra time for the walk from the bus stop.
-- [ ] Bring rain gear.
-- [ ] Save the clinic phone number in case the bus is delayed.
-
-> Transit routes and stop choices can change. Always verify the route on the day of the appointment.
 
 ## Lewis & Clark Resources
 
