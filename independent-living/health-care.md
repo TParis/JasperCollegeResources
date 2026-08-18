@@ -33,6 +33,8 @@ If on campus, also contact [Campus Safety](https://www.lclark.edu/about/campus_s
 
 ### Care Team
 
+> **Laura Gaff and Stephanie Barayuga are either/or primary care options.** You do not need appointments with both unless a clinic specifically tells you otherwise.
+
 #### Alycia F. Ernst, MD
 
 - **Specialty:** Psychiatry
@@ -43,6 +45,7 @@ If on campus, also contact [Campus Safety](https://www.lclark.edu/about/campus_s
 
 #### Laura L. Gaff
 
+- **Role:** Primary care option A
 - **Specialty:** Family Medicine
 - **Phone:** [503-216-1500](tel:+15032161500)
 - **Telemedicine:** No
@@ -51,6 +54,7 @@ If on campus, also contact [Campus Safety](https://www.lclark.edu/about/campus_s
 
 #### Stephanie M. Barayuga, MD
 
+- **Role:** Primary care option B
 - **Specialty:** Internal Medicine
 - **Phone:** [503-216-1500](tel:+15032161500)
 - **Telemedicine:** No
