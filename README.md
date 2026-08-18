@@ -6,6 +6,7 @@ A practical field guide for Lewis & Clark, Portland, college academics, and livi
 
 ### I Need Help With College
 
+- [Fall 2026 Start Calendar](calendar/fall-2026-start.md)
 - [How College Works](academic/college-life-101.md)
 - [Academic Resources](academic/academic-resources.md)
 - [Professor Questions](faculty/questions.md)
