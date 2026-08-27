@@ -41,9 +41,9 @@
 || Aug 28 | 11:00 AM–1:00 PM | Otter Oasis: Mocktails with CACE and HPW | Yes | Fowler Student Center, 3rd Floor |
 || Aug 28 | 11:00 AM–2:00 PM | Sip and Snack in the Career Center | Yes | Fowler Student Center, 2nd Floor |
 || Aug 28 | 11:30 AM–2:00 PM | Lunch | Yes | Fields Dining Hall, Fowler Student Center, 3rd Floor |
-|| Aug 28 | 11:30 AM–2:20 PM | Academic Advising for First Year and Transfer Students | No | Various Locations – Check Email |
+|->| Aug 28 | 11:30 AM–2:20 PM | Academic Advising for First Year and Transfer Students | No | Various Locations – Check Email |
 || Aug 28 | 2:00 PM–3:00 PM | Say Goodbye to Parents, Family Members, and Visiting Friends | — | — |
-|| Aug 28 | 4:00 PM–4:50 PM | Academics at L&C Group Session | No | Assigned FYG Locations, J.R. Howard & Miller |
+|->| Aug 28 | 4:00 PM–4:50 PM | Academics at L&C Group Session | No | Assigned FYG Locations, J.R. Howard & Miller |
 || Aug 28 | 5:00 PM–8:00 PM | Dinner with your First Year Group (FYG) | Yes | Fields Dining Hall, Fowler Student Center, 3rd Floor |
 || Aug 28 | 6:00 PM–7:00 PM | NSO Field Day with FYE | Yes | SOA Lawn |
 || Aug 28 | 6:00 PM–8:00 PM | Copeland First-Year Friends-y! | Yes | Not specified |
