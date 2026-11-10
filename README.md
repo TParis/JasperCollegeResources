@@ -8,7 +8,7 @@ A practical field guide for Lewis & Clark, Portland, college academics, and livi
 
 - [Orientation Days Calendar](calendar/new-student-orientation.md)
 - [Fall 2026 Start Calendar](calendar/fall-2026-start.md)
-- [Winter Break 2026 Calendar](calendar/Winter Break.md)
+- [Winter Break 2026 Calendar](calendar/winter-break.md)
 - [How College Works](academic/college-life-101.md)
 - [Academic Resources](academic/academic-resources.md)
 - [Professor Questions](faculty/questions.md)
