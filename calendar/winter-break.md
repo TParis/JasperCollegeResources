@@ -5,7 +5,7 @@
 
 | Date | Event Title | Travel / Duration | Location |
 |---|---|---|---|
-| Dec 18 | Take Taxi to Train Station | — | Portland |
+| Dec 18 | Diane ride to Train Station | — | Portland |
 | Dec 18 | Take Train to Albany | — | Portland → Albany |
 | Dec 18 | Take Uber to Amber's House | — | Albany |
 | Dec 18 | Stay in Trailer at Amber's House | Overnight | Amber's House |
@@ -23,17 +23,17 @@
 | Date | Event Title | Travel / Duration | Location |
 |---|---|---|---|
 | Dec 27 | Jasper and Andrew Visit Portland | — | Portland |
-| Dec 27 | Lunch with Tory | — | Portland |
-| Dec 27 | Put Jasper's Things into Storage | — | Portland |
-| Dec 27 | Dinner with Noel and Allison | — | — |
-| Dec 27 | Stay at Diane's House | Overnight | — |
+| Dec 27 | Lunch with Tory | Early Afternoon | Portland |
+| Dec 27 | Put Jasper's Things into Storage | Afternoon | Portland |
+| Dec 27 | Dinner with Noel and Allison | Evening | Portland |
+| Dec 27 | Stay at Diane's House | Overnight | Portland |
 
 ## Monday, December 28
 
 | Date | Event Title | Travel / Duration | Location |
 |---|---|---|---|
-| Dec 28 | Breakfast with Diane and Gabby | — | — |
-| Dec 28 | Jasper and Andrew Head to Eugene | — | Albany Area → Eugene |
+| Dec 28 | Breakfast with Diane and Gabby | — | Portland |
+| Dec 28 | Jasper and Andrew Head to Eugene | — | Portland → Eugene |
 | Dec 28 | Stay with Dad | Overnight | Eugene |
 
 ## Wednesday, December 30
